@@ -2,7 +2,8 @@
 ## Overview
 We performed this analysis to identify trends of Citibike users in New York City. Since our personal experience with this type of service occurred here, we wanted to review the data to look for trends such as popular times, male versus female usership, local versus visitor usership and most common locations. We hope to be able to apply this analysis to what would be popular and work well in Des Moines for a similar rental service. 
 ## Results
-[Link to Story] (https://public.tableau.com/app/profile/stephanie.anderson5212/viz/CitibikeChallenge_16333051679050/ChallengeStory?publish=yes)
+[View full story presentation here](https://public.tableau.com/app/profile/stephanie.anderson5212/viz/CitibikeChallenge_16333051679050/ChallengeStory?publish=yes)
+
   - **User Type Comparison** - Over 75% of the users are subscribers, meaning they are primarily getting business from residents of the city, or long term visitors. Customers (non-subscribers) would consist   of rare users and tourists, which is less than 25% of the rides.
     - ![User Types](https://user-images.githubusercontent.com/85597801/135783582-aac79346-34cf-48b7-86a1-d015f8284146.png)
 
